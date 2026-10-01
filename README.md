@@ -132,4 +132,6 @@ Current status is **V1** (core simulation). Planned work:
 
 ## Tech stack
 
-Java 17 · Swing / Java2D · records & pattern matching
+->Java 17 
+->Swing / Java2D 
+->Blackboard
